@@ -9,4 +9,3 @@ Steps to complete the system
 3. Add 'config.h'
 4. upload the code in micro controller
 
-I have attached the cirucit diagram of the project
