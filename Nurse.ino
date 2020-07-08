@@ -13,8 +13,8 @@ String current;
 String current1;
 #define MQTT_SERV "io.adafruit.com"
 #define MQTT_PORT 1883
-#define MQTT_NAME "WildeBeast1"
-#define MQTT_PASS "c237917102c44d868020217958eff9ec"
+#define MQTT_NAME "XXXXXXXXX"
+#define MQTT_PASS "XXXXXXXXXXXXXXXXXXX"
 int UpperThreshold = 518;
     int LowerThreshold = 490;
     int reading = 0;
