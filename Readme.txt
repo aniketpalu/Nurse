@@ -1,5 +1,4 @@
-Nurse
- Wireless Nurse Call System
+Wireless Nurse Call System
 
 
 Steps to complete the system
